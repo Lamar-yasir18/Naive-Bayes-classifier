@@ -20,24 +20,26 @@ To run this project, you'll need to have Python installed along with the followi
 - `seaborn`
 - `scikit-learn`
 
-You can install the required libraries using pip:
-
+You can install the required libraries using pip
 ```bash
 pip install pandas matplotlib seaborn scikit-learn
-Usage
+```
+
+## Usage
 Clone the repository:
 bash
 
 
-git clone https://github.com/Lamar-yasir18/Naive-Bayes-classifier.git
+ git clone https://github.com/Lamar-yasir18/Naive-Bayes-classifier.git
 cd Naive-Bayes-classifier
 Run the script: Open the Naive-Bayes-classifier.ipynb file in Jupyter Notebook.
-Features
+## Features
 Gaussian Naive Bayes classification
 Logistic Regression comparison
 Confusion matrix visualization
 Feature importance analysis
-Results
+
+## Results
 The model achieved the following performance metrics:
 
 Accuracy: 67.72%
@@ -56,10 +58,10 @@ Insulin: 6.94%
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+## Contact
 For questions or feedback, please reach out to:
 
 Lamar
