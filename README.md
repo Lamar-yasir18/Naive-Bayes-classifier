@@ -27,17 +27,17 @@ pip install pandas matplotlib seaborn scikit-learn
 
 ## Usage
 Clone the repository:
-bash
 
 
  git clone https://github.com/Lamar-yasir18/Naive-Bayes-classifier.git
 cd Naive-Bayes-classifier
+
 Run the script: Open the Naive-Bayes-classifier.ipynb file in Jupyter Notebook.
 ## Features
-Gaussian Naive Bayes classification
-Logistic Regression comparison
-Confusion matrix visualization
-Feature importance analysis
+- Gaussian Naive Bayes classification
+- Logistic Regression comparison
+- Confusion matrix visualization
+- Feature importance analysis
 
 ## Results
 The model achieved the following performance metrics:
