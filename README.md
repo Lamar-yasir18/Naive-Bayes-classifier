@@ -22,20 +22,20 @@ To run this project, you'll need to have Python installed along with the followi
 You can install the required libraries using pip:
 
 pip install pandas matplotlib seaborn scikit-learn
-##Usage
+## Usage
 Clone the repository:
 
 git clone https://github.com/Lamar-yasir18/Naive-Bayes-classifier.git
 cd Naive-Bayes-classifier
 Place the diabetes.csv file in the appropriate directory.
-##Run the script:
+## Run the script:
 Naive-Bayes-classifier.ipynb
-##Features
+## Features
 Gaussian Naive Bayes classification
 Logistic Regression comparison
 Confusion matrix visualization
 Feature importance analysis
-##Results
+## Results
 The model achieved the following performance metrics:
 
 Accuracy: 67.72%
@@ -54,10 +54,10 @@ Insulin: 6.94%
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Contact
+## Contact
 For questions or feedback, please reach out to:
 lamar
 deema
